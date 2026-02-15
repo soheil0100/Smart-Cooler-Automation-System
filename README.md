@@ -5,7 +5,7 @@ An automatic temperature-controlled cooling system developed using Arduino.
 This project monitors ambient temperature and controls a cooling mechanism (fan or motor) automatically based on predefined thresholds.
 
 ---
-
+ 
 ## Overview
 
 The Smart Cooler system is designed to optimize cooling efficiency using sensor-based automation.
